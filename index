@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | All In One</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p>Last Updated: November 26, 2024</p>
+
+        <p>Welcome to <strong>All In One</strong>. Your privacy is important to us, and we are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information.</p>
+
+        <h2>1. Information We Collect</h2>
+        <p>We may collect the following types of information:</p>
+        <ul>
+            <li>Personal information you provide, such as your name, email address, and phone number.</li>
+            <li>Automatically collected information, including device details, IP address, operating system, and app usage data.</li>
+            <li>Behavioral data about your interactions within the app.</li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+        <p>We use the collected information to:</p>
+        <ul>
+            <li>Provide and improve the app’s functionality and user experience.</li>
+            <li>Deliver personalized recommendations and services.</li>
+            <li>Communicate with you regarding support, updates, and notifications.</li>
+            <li>Analyze data to enhance app performance and features.</li>
+        </ul>
+
+        <h2>3. Sharing Your Information</h2>
+        <p>We do not sell or share your personal information with third parties, except in the following cases:</p>
+        <ul>
+            <li>To comply with legal obligations.</li>
+            <li>When working with service providers who are bound by confidentiality agreements.</li>
+            <li>In the event of a merger, acquisition, or sale of assets, with adequate data protection measures in place.</li>
+        </ul>
+
+        <h2>4. Data Retention</h2>
+        <p>We retain your data only as long as necessary to fulfill the purposes outlined in this policy or as required by law.</p>
+
+        <h2>5. Your Rights</h2>
+        <p>You have the following rights regarding your personal data:</p>
+        <ul>
+            <li>Access your data.</li>
+            <li>Request corrections or deletions.</li>
+            <li>Restrict or object to data processing.</li>
+            <li>Withdraw consent for data processing.</li>
+        </ul>
+        <p>To exercise your rights, please contact us at the details provided below.</p>
+
+        <h2>6. Data Security</h2>
+        <p>We implement appropriate security measures to protect your data, including encryption, authentication, and access controls.</p>
+
+        <h2>7. Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy, please contact us:</p>
+        <p>Email: <a href="mailto:zekiozdemir85@icloud.com">zekiozdemir85@icloud.com</a></p>
+
+        <h2>8. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy periodically. Changes will be posted on this page, and continued use of the app indicates your acceptance of the updated policy.</p>
+
+        <p>Thank you for using <strong>All In One</strong>!</p>
+    </div>
+</body>
+</html>
